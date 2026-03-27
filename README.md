@@ -17,7 +17,6 @@
 
 ### Требования
 - Python 3.8 или выше
-- Зависимости указаны в `requirements.txt`
 
 ### Шаги
 ```bash
@@ -30,8 +29,6 @@ python -m venv venv
 venv\Scripts\activate   # Windows
 # source venv/bin/activate   # Linux/macOS
 
-# Установить зависимости
-pip install -r requirements.txt
 
 # Запустить приложение
 python main.py
